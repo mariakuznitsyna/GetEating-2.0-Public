@@ -23,6 +23,11 @@ GetEating 2.0 suggests meals based on your dietary preferences — whether you w
 
 ---
 
+## APK
+
+You can **download the APK** for the app here: [Google Drive](https://drive.google.com/drive/folders/1Tgqpp-9BUCMondQC7toVGpmRQRrJhlFU?usp=sharing)  
+---
+
 ## 👩‍💻 Developer
 
 Created by **Maria Kuznitsyna**  
